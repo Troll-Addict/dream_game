@@ -224,3 +224,11 @@ Not sure how I want to handle recipe's right now. The way I'm leaning toward the
     - Lumbermill - For wood
     - Digsite - For Gems
     - Greenhouse (or something... for herbs and shit)
+
+# implementations 
+    ## class hierarchy
+- entity 
+    - x, y coordinates
+    - h, w, z dimensions
+    - collideable?
+    - visible? 
